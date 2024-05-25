@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TankWar:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/TankWar_jar</output-path>
+    <root id="archive" name="TankWar.jar">
+      <element id="module-output" name="TankWar" />
+      <element id="library" level="project" name="apache.activemq.client5.9.1" />
+      <element id="library" level="project" name="alibaba.fastjson" />
+      <element id="library" level="project" name="Java EE 6-Java EE 6" />
+      <element id="library" level="project" name="apache.activemq.stomp" />
+    </root>
+  </artifact>
+</component>

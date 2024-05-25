@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="activemq-all-5.9.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../TankWar_xvyangdong/activemq-all-5.9.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../../../../../../TankWar_xvyangdong/activemq-all-5.9.1.jar!/" />
+    </SOURCES>
+  </library>
+</component>
