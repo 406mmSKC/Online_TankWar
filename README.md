@@ -7,7 +7,7 @@
 3.IP地址请自行修改，我不会提供老师的服务器IP，当然，你也可以找他本人索要。
 
 ## 代码说明
-1.本项目在IDEA中直接运行main函数就可以了，位于src/cn/edu/ncepu/sa/Control，不知道为什么构建成jar之后运行就一直说缺JMS库，我至今没有解决。
+1.本项目在IDEA中直接运行main函数就可以了，位于src/cn/edu/ncepu/sa/Control，不知道为什么构建成jar之后运行就一直说缺JMS库，我至今没有解决。（2024-7-7添加：我建议你用Maven构建，一直到做完我才知道有这么个东西，省好多事）
 
 2.本项目使用ActiveMQ5.9.1和FastJson1.2.7。
 
